@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Christian-Epi
-- 👀 I’m interested in Python basis
-- 🌱 I’m currently learning this language
-- 💞️ I’m looking to collaborate  much as I can according to my abilities
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👀 Just starting out with Python basics!
+🌱 Currently learning the ropes of this language 🐍
+💞️ Ready to jump in and help wherever I can!
+📫 Need a Python pal? Hit me up!
+😄 Pronouns: He/Him
+⚡ Fun fact: I once tried writing code that made my cat chase a laser pointer... Let's just say it ended up chasing its own tail instead!
 
 <!---
 Christian-Epi/Christian-Epi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
